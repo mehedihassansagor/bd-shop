@@ -1,0 +1,9 @@
+.orderItem{
+    margin-left: 10%;
+    box-shadow: 10px 10px 30px gray;
+    border-radius:20px;
+    text-align: center;
+    padding:10px;
+    width:80%;
+    background-color:paleturquoise;
+}

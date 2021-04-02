@@ -1,0 +1,11 @@
+.login-form{
+    height: 600px;
+    width: 500px;
+    border: 1px solid salmon;
+    margin:auto;
+    padding: 20px;
+    background-color:azure;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+    
+}
